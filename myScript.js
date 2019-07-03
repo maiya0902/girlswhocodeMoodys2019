@@ -4,7 +4,7 @@ function myFunction() {
     txt = "You pressed OK!";
     document.getElementById('gifImage').src='orcigiphy1.GIF';
     document.getElementById('gifImage2').src='orcigiphy2.GIF';
-    document.getElementById('gifImage3').src='orcigiphy3.GIF';
+    document.getElementById('gifImage3').src='orcigiphy3.GIFs';
   } else {
     txt = "You pressed Cancel!";
   }
